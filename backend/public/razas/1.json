@@ -1,0 +1,1058 @@
+[{
+  "_id": {
+    "$oid": "68f7cd027b3e9fd636762a2f"
+  },
+  "nombre": "Pastor Alemán",
+  "slug": "pastor-aleman",
+  "portada": "/static/razas/pastor-aleman.png",
+  "info": {
+    "peso": "Machos: 30–40 kg / Hembras: 22–32 kg",
+    "altura": "Machos: 60–65 cm / Hembras: 55–60 cm",
+    "vida": "9–13 años (promedio 10–12 años)"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Dieta de alta calidad formulada para razas grandes. En cachorros, el alimento debe controlar el crecimiento para evitar problemas articulares. Un adulto consume entre 350 y 550 g diarios de pienso seco, divididos en dos tomas (175–275 g cada una). Dividir las comidas ayuda a prevenir torsión gástrica. Mantener un peso magro y evitar ejercicio intenso 1 hora antes y después de comer.",
+      "icono": "🍗"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Necesita 1.5–2 horas diarias de actividad física y mental. Requiere más que simples paseos: debe realizar entrenamiento de obediencia avanzada, agility o rastreo. Ideal incluir caminatas rápidas, trote, juegos de buscar y traer y estimulación mental constante. Un Pastor Alemán sin suficiente trabajo puede desarrollar estrés o conductas destructivas.",
+      "icono": "🚶‍♂️"
+    },
+    {
+      "titulo": "Pelaje",
+      "texto": "Pelaje doble, denso y de longitud media (algunos ejemplares tienen pelo largo). Muda constante, con dos periodos de muda intensa al año. Cepillar 2–3 veces por semana y a diario durante la muda usando un rastrillo para subpelo. Bañar cada 6–8 semanas o cuando sea necesario. El baño excesivo puede dañar el pelaje protector natural.",
+      "icono": "🧴"
+    },
+    {
+      "titulo": "Salud Preventiva",
+      "texto": "Predisposición a displasia de cadera y codo, torsión gástrica, mielopatía degenerativa e insuficiencia pancreática exocrina. Controlar peso y ejercicio, y realizar revisiones veterinarias regulares. En cachorros, exigir certificaciones de salud de caderas y codos de los padres para reducir riesgos genéticos.",
+      "icono": "💊"
+    },
+    {
+      "titulo": "Vacunación",
+      "texto": "Vacunas esenciales: Moquillo, Parvovirus, Adenovirus y Rabia. Vacunas opcionales: Leptospirosis, Bordetella y Lyme. Desparasitación interna y externa regular según el plan veterinario. Es especialmente importante mantener un programa estricto por su tendencia a olfatear y explorar el entorno.",
+      "icono": "💉"
+    }
+  ],
+  "resumen": "Raza de trabajo altamente inteligente, leal y versátil, destacada por su energía, obediencia y capacidad de aprendizaje.",
+  "createdAt": {
+    "$date": "2025-10-21T18:12:18.362Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-21T23:12:31.469Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f8153c7b3e9fd636762a9d"
+  },
+  "nombre": "Corgi",
+  "slug": "corgi",
+  "portada": "/static/razas/corgi.png",
+  "info": {
+    "peso": "Machos: 10–14 kg / Hembras: 9–13 kg",
+    "altura": "Machos y Hembras: 25–30 cm",
+    "vida": "12–15 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Dieta de alta calidad formulada para razas pequeñas o medianas, con control de peso y soporte articular. Un adulto consume entre 150 y 220 g diarios de pienso seco (75–110 g por comida, dos veces al día). Es crucial controlar las porciones, limitar los premios y evitar restos de comida humana. Usar juguetes interactivos o comederos lentos ayuda a prevenir la obesidad.",
+      "icono": "🍗"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Requiere al menos 60 minutos diarios de actividad, divididos en varias sesiones. Ideal combinar paseos enérgicos, juegos de buscar y recuperar, y estimulación mental con juegos de olfato o agility de bajo impacto. Evitar saltos, escaleras y movimientos bruscos que puedan dañar su espalda larga y sensible.",
+      "icono": "🚶‍♂️"
+    },
+    {
+      "titulo": "Pelaje",
+      "texto": "Pelaje doble, grueso y resistente al clima, de longitud media. Cepillar 2–3 veces por semana y diariamente durante las mudas con un rastrillo de subpelo. Bañar cada 4–8 semanas o cuando sea necesario. Revisar y limpiar las orejas erguidas para prevenir acumulación de cera o suciedad.",
+      "icono": "🧴"
+    },
+    {
+      "titulo": "Salud Preventiva",
+      "texto": "Predisposición a enfermedad del disco intervertebral (IVDD), displasia de cadera o codo, atrofia progresiva de retina, cataratas y mielopatía degenerativa. Prevenir con control de peso, ejercicio moderado y evitar saltos o escaleras. Mantener higiene dental regular y chequeos veterinarios periódicos enfocados en la columna y articulaciones.",
+      "icono": "💊"
+    },
+    {
+      "titulo": "Vacunación",
+      "texto": "Vacunas esenciales: Moquillo, Parvovirus, Adenovirus y Rabia. Vacunas opcionales: Leptospirosis y Bordetella. Desparasitación interna y externa regular según el plan veterinario. La prevención es clave debido a su hábito de olfatear y explorar con el hocico.",
+      "icono": "💉"
+    }
+  ],
+  "resumen": "Raza pequeña y robusta, conocida por su lomo largo, patas cortas y personalidad alegre, inteligente y leal.",
+  "createdAt": {
+    "$date": "2025-10-21T23:20:28.181Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-21T23:20:28.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f8195a7b3e9fd636762aa4"
+  },
+  "nombre": "Teckel (Dachshund)",
+  "slug": "teckel",
+  "portada": "/static/razas/teckel.png",
+  "info": {
+    "peso": "Estándar: 7–15 kg / Miniatura: 4–6 kg",
+    "altura": "Estándar: 20–23 cm / Miniatura: 13–18 cm",
+    "vida": "12–17 años (una de las razas más longevas)"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Debe recibir una dieta de alta calidad formulada para razas pequeñas, priorizando el control de peso. Un Teckel estándar (8–10 kg) requiere entre 120 y 150 g diarios de pienso seco; un miniatura (4–5 kg), entre 100 y 120 g. Dividir la ración en dos comidas diarias y medir con precisión las porciones. Evitar el sobrepeso, ya que incrementa el riesgo de hernias discales y problemas de espalda.",
+      "icono": "🍗"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Necesita entre 40 y 60 minutos diarios de ejercicio moderado. Le encantan los paseos, los juegos de olfato y las actividades en el suelo. Evitar completamente los saltos, subir o bajar escaleras, y movimientos bruscos que puedan dañar su columna. Los paseos regulares fortalecen su musculatura sin sobrecargarla.",
+      "icono": "🚶‍♂️"
+    },
+    {
+      "titulo": "Pelaje",
+      "texto": "Existen tres variedades: pelo corto (mantenimiento bajo, cepillado 1–2 veces por semana), pelo largo (cepillado 3–4 veces por semana y baño cada 4–6 semanas) y pelo duro (requiere stripping 2–3 veces al año). En todas las variedades, limpiar sus orejas caídas regularmente para prevenir infecciones.",
+      "icono": "🧴"
+    },
+    {
+      "titulo": "Salud Preventiva",
+      "texto": "Predisposición a enfermedad del disco intervertebral (IVDD), la mayor preocupación de la raza. Mantener un peso ideal y evitar saltos o escaleras es esencial. También pueden presentar atrofia progresiva de retina, luxación patelar y acumulación de sarro dental. Revisiones veterinarias anuales con control de peso y evaluación neurológica son fundamentales.",
+      "icono": "💊"
+    },
+    {
+      "titulo": "Vacunación",
+      "texto": "Vacunas esenciales: Moquillo, Parvovirus, Adenovirus y Rabia. Vacunas opcionales: Leptospirosis y Bordetella. Mantener desparasitación interna y externa regular, especialmente importante en esta raza curiosa y cazadora.",
+      "icono": "💉"
+    }
+  ],
+  "resumen": "Pequeño pero valiente, el Teckel o Dachshund destaca por su cuerpo alargado, patas cortas y carácter decidido. Inteligente, curioso y fiel, es un excelente perro de compañía y caza.",
+  "createdAt": {
+    "$date": "2025-10-21T23:38:02.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-21T23:38:02.710Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69329d34ebee68b64e206bef"
+  },
+  "nombre": "Galgo",
+  "slug": "galgo",
+  "portada": "/static/razas/galgo.png",
+  "resumen": "Raza elegante, rápida y sorprendentemente tranquila en el hogar.",
+  "info": {
+    "peso": "Machos: 29–34 kg | Hembras: 25–29 kg",
+    "altura": "Machos: 68–72 cm | Hembras: 65–70 cm",
+    "vida": "10–14 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere alimento de alta calidad, rico en proteínas. Dividir en 2–3 comidas diarias para reducir riesgo de torsión gástrica.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Paseos diarios de 30–45 min. Espacios seguros para correr 1–2 veces por semana. En casa suelen ser tranquilos.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje corto y fino. Cepillado 1 vez por semana. Muy sensibles al frío, requieren abrigo en invierno.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propensos a torsión gástrica, sensibilidad a anestesia, enfermedad dental y problemas articulares.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Cálidos, silenciosos y sensibles. Responden mejor al refuerzo positivo. Pueden ser tímidos con desconocidos.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Usar arnés por su cuello delgado. Camas acolchadas. Supervisar paseos por su fuerte instinto de persecución.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69329e7aebee68b64e206bf1"
+  },
+  "nombre": "Bulldog Francés",
+  "slug": "bulldog-frances",
+  "portada": "/static/razas/bulldog-frances.png",
+  "resumen": "Raza pequeña, cariñosa y muy adaptada a la vida en interiores. Excelente compañero familiar.",
+  "info": {
+    "peso": "8–14 kg",
+    "altura": "27–33 cm",
+    "vida": "10–12 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Necesita una dieta de buena calidad, controlando las calorías para evitar el sobrepeso. Dividir la comida en 2 porciones diarias. Evitar alimentos que produzcan gases.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Requiere paseos moderados de 20–30 minutos al día. Cuidado con el calor, ya que por su braquicefalia puede tener dificultad respiratoria durante el ejercicio intenso.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje corto y fácil de mantener. Cepillado suave 1–2 veces por semana. Limpiar arrugas y pliegues faciales con regularidad para evitar infecciones.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a problemas respiratorios, alergias de piel, otitis, síndrome braquicefálico y problemas de columna (hemivértebras). Necesita chequeos veterinarios frecuentes.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Extremadamente sociable, cariñoso y juguetón. Muy orientado a las personas. Suele llevarse bien con otros animales y niños. No ladra mucho.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Evitar el calor excesivo. No debe realizar ejercicios intensos. Mantener limpios los pliegues del rostro. Supervisión constante del peso y respiración.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69329f0cebee68b64e206bf3"
+  },
+  "nombre": "Yorkshire Terrier",
+  "slug": "yorkshire",
+  "portada": "/static/razas/yorkshire.png",
+  "resumen": "Perro pequeño, vivaz y cariñoso, conocido por su pelaje fino y personalidad valiente.",
+  "info": {
+    "peso": "2–3.2 kg",
+    "altura": "17–23 cm",
+    "vida": "12–15 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere una dieta de alta calidad, idealmente formulada para razas pequeñas. Debido a su tamaño, necesita porciones pequeñas varias veces al día. Evitar alimentos muy duros que puedan dañar su mandíbula delicada.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "A pesar de su tamaño, es muy activo. Requiere paseos diarios de 20–30 minutos y juegos suaves en interiores. Prefiere caminar rápido y explorar.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Su pelaje es largo, sedoso y exige mantenimiento frecuente. Cepillado diario recomendado para evitar nudos. Baños cada 2–3 semanas. Revisar orejas y ojos por acumulación de lágrimas.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Puede sufrir problemas dentales, luxación de rótula, colapso traqueal, hipoglucemia en cachorros y problemas hepáticos (shunt portosistémico). Chequeos regulares son esenciales.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Alerta, valiente, afectuoso y con mucha energía. Suele tener una personalidad fuerte a pesar de su tamaño. Se apega mucho a su familia y puede ser territorial.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Evitar saltos altos por riesgo articular. Mantener dientes limpios. Controlar frío, ya que tienen poca masa corporal. Puede necesitar ropa en invierno.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69329f1cebee68b64e206bf5"
+  },
+  "nombre": "Cocker Spaniel",
+  "slug": "cocker",
+  "portada": "/static/razas/cocker.png",
+  "resumen": "Raza cariñosa, enérgica y muy sociable, conocida por sus largas orejas y pelaje suave.",
+  "info": {
+    "peso": "12–16 kg",
+    "altura": "38–43 cm",
+    "vida": "12–15 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere una dieta balanceada para razas medianas con actividad moderada. Tienden a engordar, por lo que es importante controlar porciones y premiar con alimentos bajos en calorías.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Necesita paseos diarios de 45–60 minutos y actividades que estimulen tanto su cuerpo como su mente. Disfruta juegos de búsqueda y olfato.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje mediano-largo que necesita cepillado 3–4 veces por semana. Las orejas deben limpiarse regularmente para evitar infecciones debido a su forma colgante.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a otitis, alergias cutáneas, problemas oculares (atrofia progresiva de retina), displasia de cadera y enfermedades cardíacas. Requiere controles veterinarios constantes.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Extremadamente cariñoso, amigable y sensible. Excelente con niños y otros animales. Puede ser muy emocional si recibe regaños fuertes.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Mantener orejas limpias y secas. Revisar patas por acumulación de pelo. Evitar sobrepeso. Proveer actividades de olfato para evitar ansiedad.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f0c7ebee68b64e206bfc"
+  },
+  "nombre": "Chow Chow",
+  "slug": "chow-chow",
+  "portada": "/static/razas/chow-chow.png",
+  "resumen": "Raza independiente y majestuosa, conocida por su lengua azul y su carácter leal pero reservado.",
+  "info": {
+    "peso": "20–32 kg",
+    "altura": "43–51 cm",
+    "vida": "9–15 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Necesita alimento de calidad media a alta con buen equilibrio entre proteínas y grasas. Son propensos al sobrepeso, por lo que se debe controlar estrictamente la cantidad de comida y premios.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Requiere paseos diarios moderados de 30–45 minutos. No es extremadamente activo, pero sí necesita actividad constante. Evitar ejercicio intenso con calor debido a su grueso pelaje.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje denso y abundante que requiere cepillado 3–4 veces a la semana. En temporadas de muda, el cepillado debe ser diario. Revisar y limpiar la zona del cuello para evitar enredos.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a displasia de cadera, problemas oculares (entropión), alergias, puntos calientes y dificultades respiratorias con calor. Mantener chequeos veterinarios regulares.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Independiente, tranquilo y muy leal a su familia. Puede ser reservado con extraños. No es una raza muy demostrativa; suele mostrar afecto de forma sutil.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Extremadamente sensible al calor. Evitar paseos largos en clima caluroso. Mantener una buena higiene del pelaje y revisar pliegues. Socializar desde cachorro para evitar conductas territoriales.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f10febee68b64e206bfe"
+  },
+  "nombre": "Pitbull",
+  "slug": "pitbull",
+  "portada": "/static/razas/pitbull.png",
+  "resumen": "Raza fuerte, atlética y muy leal. Excelente compañero si recibe socialización, entrenamiento positivo y actividad física adecuada.",
+  "info": {
+    "peso": "14–30 kg",
+    "altura": "43–53 cm",
+    "vida": "12–15 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere una dieta rica en proteínas y grasas saludables para mantener su musculatura. Dividir la comida en 2 porciones diarias. Evitar el sobrepeso para prevenir problemas articulares.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Muy activo. Necesita paseos de 60 minutos al día, juegos de fuerza moderada y actividades que estimulen su mente. Disfruta correr, jugar a la pelota y entrenar obediencia.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje corto y fácil de mantener. Cepillado 1 vez por semana. Baños cada 1–2 meses. Revisar piel regularmente, ya que pueden tener alergias.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a problemas de piel, alergias, displasia de cadera, enfermedades cardíacas y hipotiroidismo. Mantener controles veterinarios regulares.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Extremadamente leal, cariñoso y sociable con su familia. Son inteligentes, confiados y disfrutan de la compañía humana. Deben ser socializados desde cachorros para evitar conductas reactivas.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Requiere entrenamiento constante y basado en refuerzo positivo. Supervisar interacción con otros perros si no está bien socializado. Evitar actividades intensas en calor extremo.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f186ebee68b64e206c00"
+  },
+  "nombre": "Chihuahua",
+  "slug": "chihuahua",
+  "portada": "/static/razas/chihuahua.png",
+  "resumen": "Una de las razas más pequeñas del mundo. Valiente, alerta y muy apegado a su familia. Ideal para departamentos y convivencia cercana.",
+  "info": {
+    "peso": "1.5–3 kg",
+    "altura": "15–23 cm",
+    "vida": "12–20 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Necesita alimento especial para razas pequeñas. Porciones pequeñas, 2–3 veces al día. Evitar sobrealimentación debido a su pequeño tamaño y tendencia al sobrepeso.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Requiere paseos cortos diarios de 15–25 minutos. Le gustan los juegos suaves en interiores. A pesar de su tamaño, es activo y curioso.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Puede tener pelaje corto o largo. El corto requiere cepillado semanal; el largo necesita 2–3 veces por semana. Son sensibles al frío, por lo que requieren abrigo en invierno.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a problemas dentales, luxación de rótula, colapso traqueal, hipoglucemia en cachorros y enfermedades cardíacas. Requiere controles veterinarios frecuentes.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Valiente, alerta y muy afectuoso. Puede ser desconfiado con desconocidos. Muy apegado a su dueño y leal. Inteligente y con gran personalidad para su tamaño.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Evitar saltos o caídas por riesgo óseo. Mantener dientes limpios. Abrigar en climas fríos. Socializar desde cachorro para evitar reactividad.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f1c4ebee68b64e206c02"
+  },
+  "nombre": "Boxer",
+  "slug": "boxer",
+  "portada": "/static/razas/boxer.png",
+  "resumen": "Raza enérgica, juguetona y muy leal. Excelente perro familiar y de compañía, conocido por su carácter alegre y protector.",
+  "info": {
+    "peso": "25–32 kg",
+    "altura": "53–63 cm",
+    "vida": "10–12 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere una dieta rica en proteínas para mantener su musculatura. Controlar las porciones porque pueden engordar fácilmente. Dividir la comida en 2–3 porciones para evitar problemas digestivos.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Muy activo. Necesita al menos 60 minutos diarios de actividad física, idealmente combinando paseos, juegos y entrenamiento. Les encanta correr, saltar y participar en deportes como agility.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje corto y fácil de mantener. Cepillado semanal suficiente. Revisar piel y orejas regularmente debido a su tendencia a alergias y dermatitis.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a problemas cardíacos, displasia de cadera, alergias, tumores y enfermedades respiratorias. Sensibles al calor. Se recomienda seguimiento veterinario frecuente.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Alegre, activo, inteligente y extremadamente leal. Muy buenos con niños y familias. Protector por naturaleza, pero no agresivo si está bien socializado.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Evitar actividad intensa con calor. Entrenamiento constante y basado en refuerzo positivo. Necesita mucha interacción familiar para evitar ansiedad.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f21eebee68b64e206c04"
+  },
+  "nombre": "Pug",
+  "slug": "pug",
+  "portada": "/static/razas/pug.png",
+  "resumen": "Perro pequeño, cariñoso y muy sociable. Conocido por su cara arrugada, gran personalidad y actitud alegre.",
+  "info": {
+    "peso": "6–8 kg",
+    "altura": "25–30 cm",
+    "vida": "12–15 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Necesita una dieta ligera y controlada para evitar el sobrepeso. Requiere alimento para razas pequeñas con aporte moderado de calorías. Dividir la comida en 2 porciones diarias.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Requiere actividad moderada: paseos diarios de 20–30 minutos y juegos tranquilos. Evitar ejercicio intenso y paseos en calor, debido a problemas respiratorios propios de razas braquicéfalas.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje corto pero con muda constante. Cepillado 2–3 veces por semana. Es crucial limpiar las arrugas del rostro para evitar humedad e infecciones.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a problemas respiratorios, sobrepeso, alergias, problemas oculares y síndrome braquicefálico. Necesitan chequeos frecuentes y cuidados especiales en climas cálidos.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Muy cariñoso, simpático y sociable. Excelente para departamentos. Les encanta estar cerca de su familia y suelen llevarse bien con otros animales y niños.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Evitar calor extremo. Mantener limpios los pliegues faciales. Controlar peso y respiración. Recomendada socialización e interacción diaria para evitar ansiedad.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f22aebee68b64e206c06"
+  },
+  "nombre": "Dálmata",
+  "slug": "dalmata",
+  "portada": "/static/razas/dalmata.png",
+  "resumen": "Raza activa, inteligente y resistente, conocida por su característico pelaje manchado y gran energía.",
+  "info": {
+    "peso": "20–32 kg",
+    "altura": "56–61 cm",
+    "vida": "11–14 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere un alimento balanceado, bajo en purinas para evitar problemas urinarios. Mantener hidratación constante. Dividir la comida en 2 porciones diarias.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Muy activo. Necesita al menos 60–90 minutos de ejercicio diario. Ideal para correr, trotar y actividades de resistencia. Sin suficiente estimulación puede desarrollar ansiedad.",
+      "iconi": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje corto pero con muda constante durante todo el año. Cepillado 2–3 veces por semana. Revisar piel, ya que pueden tener sensibilidad cutánea.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a sordera congénita, problemas urinarios (formación de cristales), alergias y problemas de piel. Se recomienda realizar pruebas auditivas en cachorros.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Sociable, enérgico, inteligente y con fuerte instinto protector. Excelente para familias activas. A veces independiente, pero muy fiel a su dueño.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Asegurar actividad física diaria. Evitar dietas altas en purinas. Mantener hidratación constante. Proveer estimulación mental para prevenir conductas destructivas.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f27aebee68b64e206c09"
+  },
+  "nombre": "Siberian Husky",
+  "slug": "siberian-husky",
+  "portada": "/static/razas/siberian-husky.png",
+  "resumen": "Raza de trabajo originaria de regiones frías. Energético, inteligente y sociable, conocido por su gran resistencia y su mirada característica.",
+  "info": {
+    "peso": "16–27 kg",
+    "altura": "50–60 cm",
+    "vida": "12–15 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere una dieta rica en proteínas y grasas saludables, especialmente si tiene actividad intensa. Controlar porciones para evitar sobrepeso. Evitar alimentos muy grasos si no realiza ejercicio diario.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Extremadamente activo. Necesita al menos 1–2 horas de actividad al día. Ideal para correr, trekking, bici o deportes caninos como canicross. Si no se ejercita, puede desarrollar conductas destructivas.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje doble muy denso. Cepillado 2–3 veces por semana y diario en épocas de muda. Evitar cortes extremos de pelo, ya que su capa lo protege del frío y del calor.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a displasia de cadera, problemas oculares como cataratas o atrofia progresiva de retina, y trastornos tiroideos. Necesita controles periódicos.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Muy sociable, amistoso y juguetón. No es agresivo por naturaleza. Independiente, inteligente y a veces testarudo. Requiere entrenamiento constante y positivo.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "No apto para climas muy calurosos. Necesita espacios seguros: tiende a escapar si no está bien contenido. Requiere alta estimulación mental y física.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f2b0ebee68b64e206c0b"
+  },
+  "nombre": "Akita Inu",
+  "slug": "akita-inu",
+  "portada": "/static/razas/akita-inu.png",
+  "resumen": "Raza japonesa de gran tamaño, leal, noble y valiente. Conocido por su carácter reservado y su fuerte vínculo con su familia.",
+  "info": {
+    "peso": "32–45 kg",
+    "altura": "58–70 cm",
+    "vida": "10–14 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere un alimento de alta calidad, rico en proteínas. Controlar las porciones para evitar sobrepeso. Debido a su tamaño, es preferible dividir la ración en 2 comidas diarias.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Necesita ejercicio moderado: paseos diarios de 45–60 minutos. No es una raza hiperactiva, pero necesita actividad constante para mantenerse equilibrado.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje doble y muy denso. Cepillado 2–3 veces por semana y diario durante la muda. No se recomienda raparlo, ya que su pelaje regula su temperatura.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a displasia de cadera, problemas tiroideos, alergias y enfermedades autoinmunes. También puede sufrir torsión gástrica, por lo que se debe evitar ejercicio después de comer.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Reservado, independiente y extremadamente leal. Puede ser desconfiado con extraños. Inteligente pero testarudo: requiere entrenamiento firme y positivo.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Requiere socialización temprana para evitar territorialidad. Necesita un dueño seguro y consistente. Evitar el calor excesivo y proveer sombra y agua fresca siempre.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f2cdebee68b64e206c0d"
+  },
+  "nombre": "Pomerania",
+  "slug": "pomerania",
+  "portada": "/static/razas/pomerania.png",
+  "resumen": "Raza pequeña, alegre y muy esponjosa. Conocido por su carácter vivaz, su inteligencia y su gran personalidad en un cuerpo compacto.",
+  "info": {
+    "peso": "1.8–3.5 kg",
+    "altura": "18–24 cm",
+    "vida": "12–16 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere alimento de alta calidad para razas pequeñas, con croquetas pequeñas y fáciles de masticar. Dividir en 2–3 comidas al día para evitar hipoglucemia.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "A pesar de su tamaño, es activo y curioso. Necesita paseos diarios de 20–30 minutos y juegos suaves en interiores. Evitar saltos altos para prevenir lesiones.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje doble abundante que requiere cepillado 3–4 veces por semana. En temporada de muda, cepillado diario. Baños cada 3–4 semanas. Revisar ojos y orejas regularmente.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a colapso traqueal, problemas dentales, luxación de rótula y problemas cardíacos. También puede sufrir alopecia X (pérdida de pelaje). Controles veterinarios regulares recomendados.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Extrovertido, inteligente, alerta y muy leal. Puede ladrar para avisar de cualquier ruido. Ideal como perro de compañía por su personalidad afectuosa.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Evitar calor extremo. No permitir saltos desde lugares altos. Mantener limpieza dental frecuente. Socializar desde cachorro para evitar timidez o ladridos excesivos.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f30debee68b64e206c0f"
+  },
+  "nombre": "Shih Tzu",
+  "slug": "shih-tzu",
+  "portada": "/static/razas/shih-tzu.png",
+  "resumen": "Raza pequeña, cariñosa y elegante. Conocido por su pelaje largo y su temperamento amigable, ideal como perro de compañía.",
+  "info": {
+    "peso": "4–7.5 kg",
+    "altura": "20–28 cm",
+    "vida": "10–16 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Necesita alimento de calidad para razas pequeñas. Se recomienda dividir la ración en 2–3 comidas diarias. Cuidar la ingesta calórica para evitar sobrepeso.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Requiere paseos moderados de 20–30 minutos al día. Le gustan los juegos tranquilos en interiores. No necesita actividad intensa.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje largo que requiere cepillado diario para evitar nudos. Limpieza frecuente de ojos y cara para evitar manchas y acumulación de lágrimas. Recortes regulares recomendados.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a problemas oculares, alergias, dificultades respiratorias por su hocico corto, problemas dentales y displasia de cadera. Controles veterinarios frecuentes son importantes.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Afectuoso, sociable y ideal para familias. Muy amigable con niños y otros animales. Le encanta estar acompañado y formar vínculos fuertes con sus dueños.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Evitar calor extremo por su braquicefalia. Mantener los ojos limpios. Socialización temprana para desarrollar seguridad. Recortes de higiene recomendados.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f33eebee68b64e206c11"
+  },
+  "nombre": "Doberman",
+  "slug": "doberman",
+  "portada": "/static/razas/doberman.png",
+  "resumen": "Raza elegante, atlética y muy inteligente. Conocido por su lealtad, agilidad y fuerte instinto protector.",
+  "info": {
+    "peso": "27–45 kg",
+    "altura": "63–72 cm",
+    "vida": "10–13 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere alimento rico en proteínas para mantener su musculatura. Dividir la ración en 2 comidas al día. Evitar exceso de carbohidratos para prevenir sobrepeso.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Muy activo. Necesita 1–2 horas diarias de ejercicio. Ideal para correr, caminar rápido, entrenar obediencia o practicar deportes caninos. Sin actividad suficiente puede desarrollar ansiedad o destrucción.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje corto y fácil de mantener. Cepillado semanal suficiente. Cuidar piel y uñas. Sensible al frío, por lo que se recomienda abrigo en temperaturas bajas.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a cardiomiopatía dilatada, síndrome de Wobbler, problemas de tiroides y displasia de cadera. Requiere chequeos veterinarios periódicos, especialmente cardíacos.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Muy leal, protector, obediente e inteligente. Excelente perro de trabajo y compañía. Necesita un dueño firme y tranquilo. Bien socializado es equilibrado y seguro.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Requiere entrenamiento constante y refuerzo positivo. Sensible al frío, evitar exponerlo a temperaturas extremas. Necesita estimulación mental diaria.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f378ebee68b64e206c13"
+  },
+  "nombre": "San Bernardo",
+  "slug": "san-bernardo",
+  "portada": "/static/razas/san-bernardo.png",
+  "resumen": "Raza gigante, noble y muy tranquila. Conocido por su fuerza, paciencia y carácter amigable. Ideal para familias.",
+  "info": {
+    "peso": "54–82 kg",
+    "altura": "65–90 cm",
+    "vida": "8–10 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Necesita alimento de alta calidad formulado para razas gigantes. Controlar porciones para evitar sobrepeso. Dividir la comida en 2–3 raciones para reducir riesgo de torsión gástrica.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Requiere actividad moderada: paseos diarios de 30–45 minutos. No tolera ejercicio intenso ni el calor. Prefiere caminatas tranquilas en climas frescos.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje denso que puede ser corto o largo. Cepillado 2–3 veces por semana; durante la muda, diario. Babeará con frecuencia, por lo que es importante limpiar pliegues faciales.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a displasia de cadera y codo, torsión gástrica, problemas cardíacos, enfermedades oculares y sobrecalentamiento. Controles veterinarios regulares son esenciales.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Amigable, paciente, protector y muy dócil. Excelente con niños. Actitud calmada y equilibrada. Apegado a su familia.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Evitar calor extremo y ejercicio después de comer. Necesita espacio suficiente para descansar. Entrenamiento temprano por su tamaño gigante. Mantener hidratación constante.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f3d6ebee68b64e206c15"
+  },
+  "nombre": "Shar Pei",
+  "slug": "shar-pei",
+  "portada": "/static/razas/shar-pei.png",
+  "resumen": "Raza conocida por sus característicos pliegues de piel y su temperamento calmado y leal. Independiente pero afectuoso con su familia.",
+  "info": {
+    "peso": "18–30 kg",
+    "altura": "44–51 cm",
+    "vida": "9–12 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Requiere alimento de alta calidad con ingredientes hipoalergénicos debido a su tendencia a alergias. Controlar porciones para evitar sobrepeso, ya que puede afectar sus articulaciones.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Necesita paseos moderados de 30–45 minutos al día. No es hiperactivo, pero requiere actividad regular para mantenerse equilibrado. Evitar el calor por riesgo de sobrecalentamiento.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje corto y áspero, fácil de mantener. Cepillado semanal suficiente. Es fundamental limpiar y revisar sus pliegues de piel para evitar infecciones por humedad.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a problemas de piel, alergias, infecciones en pliegues, entropión, fiebre del Shar Pei y displasia de cadera. Requiere controles veterinarios frecuentes.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Independiente, tranquilo, leal y algo reservado. Muy protector de su familia. Puede ser distante con extraños si no se socializa adecuadamente.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Socialización temprana obligatoria. Limpieza diaria de pliegues. Evitar ejercicio intenso en calor. Supervisar ojos por riesgo de entropión.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6932f448ebee68b64e206c17"
+  },
+  "nombre": "Scottish Terrier",
+  "slug": "scottish-terrier",
+  "portada": "/static/razas/scottish-terrier.png",
+  "resumen": "Raza pequeña, valiente e independiente. Reconocida por su característico hocico largo, barba y cejas pobladas.",
+  "info": {
+    "peso": "8–10 kg",
+    "altura": "25–28 cm",
+    "vida": "11–13 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Alimentación",
+      "texto": "Necesita alimento de alta calidad para razas pequeñas. Controlar las porciones por su tendencia al sobrepeso. Suelen beneficiarse de dietas con ingredientes hipoalergénicos.",
+      "icono": "🥣"
+    },
+    {
+      "titulo": "Ejercicio",
+      "texto": "Requiere paseos diarios de 30–45 minutos. Es activo pero no hiperactivo. Disfruta juegos cortos y actividades de olfato. Evitar saltos altos por su estructura corporal.",
+      "icono": "🏃"
+    },
+    {
+      "titulo": "Cuidado del pelaje",
+      "texto": "Pelaje doble y duro. Necesita cepillado 2–3 veces por semana y mantenimiento profesional (stripping o corte) cada 1–2 meses para conservar su forma característica.",
+      "icono": "💅"
+    },
+    {
+      "titulo": "Salud",
+      "texto": "Propenso a alergias, problemas de piel, luxación de rótula, enfermedades oculares y cáncer (especialmente carcinoma). Requiere seguimiento veterinario regular.",
+      "icono": "❤️"
+    },
+    {
+      "titulo": "Temperamento",
+      "texto": "Valiente, leal e independiente. Muy protector de su hogar. Afectuoso con su familia, pero reservado con extraños. Inteligente y con fuerte personalidad.",
+      "icono": "🧠"
+    },
+    {
+      "titulo": "Cuidados especiales",
+      "texto": "Requiere socialización constante. Evitar sobrepeso. Controlar piel y alergias. Supervisar interacciones con perros grandes por su carácter fuerte.",
+      "icono": "✅"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6933167f198d4212f7305530"
+  },
+  "nombre": "Beagle",
+  "slug": "beagle",
+  "portada": "/static/razas/beagle.png",
+  "info": {
+    "peso": "9–11 kg",
+    "altura": "33–41 cm",
+    "vida": "12–15 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Pelaje",
+      "texto": "Cepillado 2–3 veces/semana.",
+      "icono": "🧴"
+    },
+    {
+      "titulo": "Paseos",
+      "texto": "45–60 min diarios.",
+      "icono": "🚶"
+    },
+    {
+      "titulo": "Alimentación",
+      "texto": "Control de porciones, tendencia a engordar.",
+      "icono": "🍗"
+    },
+    {
+      "titulo": "Vacunación",
+      "texto": "Respeta calendario y desparasitación.",
+      "icono": "💉"
+    }
+  ],
+  "resumen": "Raza alegre, enérgica y curiosa.",
+  "createdAt": {
+    "$date": "2025-12-05T17:29:35.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-05T17:29:35.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6933167f198d4212f7305531"
+  },
+  "nombre": "Golden Retriever",
+  "slug": "golden",
+  "portada": "/static/razas/golden.png",
+  "info": {
+    "peso": "25–34 kg",
+    "altura": "51–61 cm",
+    "vida": "10–12 años"
+  },
+  "bloques": [
+    {
+      "titulo": "Pelaje",
+      "texto": "Cepillado frecuente por muda.",
+      "icono": "🧴"
+    },
+    {
+      "titulo": "Paseos",
+      "texto": "60–90 min diarios + juego.",
+      "icono": "🚶"
+    },
+    {
+      "titulo": "Alimentación",
+      "texto": "Dieta equilibrada, controlar peso.",
+      "icono": "🍗"
+    },
+    {
+      "titulo": "Vacunación",
+      "texto": "Al día y chequeos periódicos.",
+      "icono": "💉"
+    }
+  ],
+  "resumen": "Amistoso, confiable y cariñoso.",
+  "createdAt": {
+    "$date": "2025-12-05T17:29:35.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-05T17:29:35.394Z"
+  },
+  "__v": 0
+}]

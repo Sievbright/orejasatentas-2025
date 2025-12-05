@@ -1,0 +1,50 @@
+.razas-wrap{padding:28px 0}
+.razas-header{display:flex;flex-direction:column;gap:8px;margin-bottom:22px}
+.razas-search{max-width:420px;padding:12px 14px;border:2px solid #e2e8f0;border-radius:12px}
+.razas-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:18px}
+.raza-card{background:#fff;border-radius:16px;box-shadow:var(--shadow);padding:16px;display:flex;flex-direction:column;gap:10px}
+.raza-img{width:100%;height:140px;object-fit:cover;object-position:center;border-radius:12px}
+.raza-resumen{color:var(--muted);min-height:46px}
+
+/* Ajustes para fichas de razas con alto uniforme y resumen truncado */
+.razas-grid{
+  align-items: stretch;
+  grid-auto-rows: 1fr;
+}
+
+.raza-card{
+  height: 100%;
+}
+
+/* Re-definimos para asegurar estilo consistente + animación */
+.raza-resumen{
+  color: var(--muted);
+  min-height: 46px;
+  margin: 0;
+  overflow: hidden;
+  transition: max-height 0.25s ease;
+}
+
+/* Versión colapsada: máximo 3 líneas con "…" */
+.raza-resumen.collapsed{
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  max-height: 4.8em; /* ~3 líneas */
+}
+
+/* Versión expandida muestra todo el texto con animación */
+.raza-resumen.expanded{
+  display: block;
+  max-height: 600px; /* suficientemente alto para la mayoría de los textos */
+}
+
+/* Cuando el texto es largo, el área es clickeable (tres puntos incluidos) */
+.raza-resumen.clickable{
+  cursor: pointer;
+}
+
+/* Asegura que el botón "Ver ficha" quede al fondo de la tarjeta */
+.raza-card .btn.btn-primary{
+  margin-top: auto;
+}

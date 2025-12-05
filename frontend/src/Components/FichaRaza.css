@@ -1,0 +1,66 @@
+.ficha-container {
+  width: min(1000px, 92%);
+  margin: 32px auto;
+  padding: 24px;
+  background: var(--paper, #fff);
+  border-radius: var(--radius, 18px);
+  box-shadow: var(--shadow, 0 10px 24px rgba(2,6,23,.08));
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.ficha-container h1 {
+  font-size: 36px;
+  margin: 0;
+  text-align: center;
+  color: var(--text, #1e293b);
+}
+
+.ficha-container section {
+  background: #f9fafb;
+  padding: 18px;
+  border-radius: 14px;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.ficha-container section h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: var(--brand, #f1662e);
+}
+
+.ficha-container p {
+  margin: 0;
+  line-height: 1.5;
+  color: var(--muted, #64748b);
+}
+
+.ficha-container ul {
+  margin: 0;
+  padding-left: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  color: var(--text, #1e293b);
+}
+
+.ficha-container li {
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .ficha-container {
+    padding: 16px;
+    gap: 16px;
+  }
+  
+  .ficha-container h1 {
+    font-size: 28px;
+  }
+  
+  .ficha-container section h2 {
+    font-size: 18px;
+  }
+}
