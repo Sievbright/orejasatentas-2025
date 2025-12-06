@@ -5,7 +5,7 @@ import "./RazaDetalle.css"; // IMPORTANTE: este import debe existir
 import "./RazaDetalle.css";
 
 
-const API_BASE = import.meta.env?.VITE_API_URL || "http://localhost:4000";
+const API_BASE = "https://orejasatentas-2025.onrender.com";
 
 const imgSrc = (src) => {
   if (!src) return "";
@@ -13,6 +13,7 @@ const imgSrc = (src) => {
     ? src
     : `${API_BASE}${src}`;
 };
+
 
 export default function RazaDetalle() {
   const { slug } = useParams();

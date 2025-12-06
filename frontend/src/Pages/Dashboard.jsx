@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { useAuth } from "../context/AuthContext";
 import "./Dashboard.css";
 
-const API_BASE = process.env.REACT_APP_API_URL || "http://localhost:4000";
+const API_BASE = "https://orejasatentas-2025.onrender.com";
 const API_IA_RECOMENDACIONES = `${API_BASE}/api/ia/cuidado-perro`;
 const API_IA_CHAT = `${API_BASE}/api/ia/chat`;
 

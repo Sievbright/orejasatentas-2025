@@ -6,7 +6,7 @@ import React, {
   useState,
 } from "react";
 
-const API_BASE = process.env.REACT_APP_API_URL || "http://localhost:4000";
+const API_BASE = "https://orejasatentas-2025.onrender.com";
 
 const AuthContext = createContext(null);
 
