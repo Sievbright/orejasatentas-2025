@@ -1,8 +1,8 @@
 // src/Pages/RazaDetalle.jsx
 import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import "./RazaDetalle.css"; // IMPORTANTE: este import debe existir
 import "./RazaDetalle.css";
+
 
 
 const API_BASE = "https://orejasatentas-2025.onrender.com";
@@ -65,13 +65,17 @@ export default function RazaDetalle() {
     );
   }
 
-const { nombre, portada, info, bloques } = raza;
+  const { nombre, portada, info, bloques } = raza;
 
   return (
     <article className="oa-container raza-detalle">
       {/* HERO */}
       <header className="raza-hero">
-        <img src={imgSrc(raza.portada)} alt={raza.nombre} className="raza-detalle-img"/>
+        <img
+          src={imgSrc(portada)}
+          alt={nombre}
+          className="raza-detalle-img"
+        />
 
 
         <div className="raza-hero-copy">
