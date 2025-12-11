@@ -4,8 +4,8 @@ import { useParams, Link } from "react-router-dom";
 import "./RazaDetalle.css";
 
 
+import { API_BASE } from "../config/api";
 
-const API_BASE = "https://orejasatentas-2025.onrender.com";
 
 const imgSrc = (src) => {
   if (!src) return "";

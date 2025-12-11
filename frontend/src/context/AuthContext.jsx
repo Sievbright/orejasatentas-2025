@@ -6,7 +6,7 @@ import React, {
   useState,
 } from "react";
 
-const API_BASE = "https://orejasatentas-2025.onrender.com";
+import { API_BASE } from "../config/api";
 
 const AuthContext = createContext(null);
 

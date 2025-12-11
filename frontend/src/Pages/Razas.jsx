@@ -7,7 +7,8 @@ function useQuery() {
   return new URLSearchParams(useLocation().search);
 }
 
-const API_BASE = "https://orejasatentas-2025.onrender.com";
+import { API_BASE } from "../config/api";
+
 
 export default function Razas() {
   const query = useQuery().get("query") || "";
